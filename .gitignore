@@ -1,0 +1,22 @@
+# Virtualenv
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Packaging
+*.egg-info/
+
+# Editor
+.vscode/
+
+# System
+.DS_Store
+
+# Other files
+tests/
+
+# Data files
+examples/data/*
